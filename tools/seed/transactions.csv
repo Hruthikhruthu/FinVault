@@ -1,0 +1,6 @@
+type,category,merchant,amount,occurredAt,description
+INCOME,Salary,FinVault Labs,5200.00,2026-05-01T09:00:00,Monthly salary
+EXPENSE,Groceries,Fresh Market,86.42,2026-05-03T17:30:00,Weekly groceries
+EXPENSE,Transport,Metro Card,44.00,2026-05-05T08:10:00,Transit recharge
+SAVINGS,Savings,Auto Save,250.00,2026-05-07T12:00:00,Emergency fund contribution
+EXPENSE,Dining,Cafe Ledger,39.50,2026-05-10T20:15:00,Dinner

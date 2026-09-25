@@ -1,0 +1,8 @@
+.git/
+.idea/
+.vscode/
+*.log
+target/
+*/target/*
+!gateway/target/
+!gateway/target/gateway-*.jar

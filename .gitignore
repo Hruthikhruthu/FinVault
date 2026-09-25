@@ -1,0 +1,14 @@
+target/
+node_modules/
+dist/
+.env.local
+.env.*.local
+*.log
+.DS_Store
+.idea/
+.vscode/
+coverage/
+.nyc_output/
+docker-data/
+.maven-repo/
+.env
